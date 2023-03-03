@@ -1,7 +1,7 @@
 # calculating-average-working-hours
 
-A simple c programming project is build to calculate average working hours for a specific working days.
+A simple C programming project is built to calculate average working hours for a specific working day.
 
 ## IDE
 
-I use codeblocks to build this project [Codeblocks](https://www.codeblocks.org/) to install foobar.
+I have used [Codeblocks](https://www.codeblocks.org/) to build this project.
